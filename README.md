@@ -16,3 +16,9 @@ To create figures and models for lyric examination:
 -Run the MusicMe Word Word Embedding ipynb
 
 Our model utilizes Google's [Word2Vec](https://code.google.com/archive/p/word2vec/) word embedding model
+
+## Lyric generation:
+
+All required data for running the lyric generation model is in the repo.
+
+The model is a reltivley standard word level NLP for generating text. We used LSTM and Bidirectional LSTM layers for our model architecture.
